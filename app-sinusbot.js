@@ -192,7 +192,7 @@ function SinusBotAPI(host, port) {
 			dataType: 'json',
 			beforeSend: function(xhr) {
 				xhr.setRequestHeader("Authorization", 'Bearer ' + that.token);
-				xhr.setRequestHeader("X-Proxy-Url", 'http://' + that.host + ':' + that.port + url);
+				xhr.setRequestHeader("X-Proxy-Url", 'https://' + that.host + ':' + that.port + url);
 		    },
 			success: function(data){
 				if (data.success != 'undefined' && data.success === false) {
