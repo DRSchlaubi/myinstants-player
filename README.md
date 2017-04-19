@@ -1,5 +1,5 @@
 
-### Author of player
+### Author of the original player
 https://github.com/HarpyWar/myinstants-player
 ### Web Player
 http://player.schlaubi.net/ssl/index.html
