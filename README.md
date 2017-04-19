@@ -1,9 +1,10 @@
 
+### Author of player
+https://github.com/HarpyWar/myinstants-player
 ### Web Player
-https://harpywar.github.io/myinstants-player/
-
+http://player.schlaubi.net/ssl/index.html
 ### SinusBot Player
-https://harpywar.github.io/myinstants-player/sinusbot.html
+http://player.schlaubi.net/ssl/sinusbot.html
 
 ---
 #### MyInstants API
